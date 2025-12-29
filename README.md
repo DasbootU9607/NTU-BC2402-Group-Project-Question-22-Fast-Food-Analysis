@@ -11,6 +11,7 @@ Analysis of fast food nutritional data with 3D visualizations and healthiness sc
 - `healthiness_score_for_scatter_plot.csv` - Dataset with health scores
 - `fastfood_healthiness_3d_plot.png` - 3D plot image
 - `fastfood_healthiness_3d_plot.pdf` - 3D plot PDF
+- '3d visualizaion(scatter plot) html file directly see at:'-https://dasbootu9607.github.io/NTU-BC2402-Group-Project-Question-22-Fast-Food-Analysis/fastfood_3d_scatter_plot.html
 
 ## Technologies
 - Python
